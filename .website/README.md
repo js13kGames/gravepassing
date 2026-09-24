@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - survival
+  - horror
 post: https://medium.com/hypersphere-codes/how-i-created-a-gameboy-like-game-in-13kb-5905bf6166b2
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
